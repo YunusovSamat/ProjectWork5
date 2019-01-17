@@ -1,0 +1,1 @@
+include ':app', ':SharedPreferencesApp', ':LifecycleApp', ':LiveData', ':ViewModelApp'
